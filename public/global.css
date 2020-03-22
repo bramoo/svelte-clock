@@ -1,3 +1,11 @@
+:root {
+	--sl: 3em;
+	--st: 1em;
+	--sht: calc(var(--st) / 2);
+	--shtn: calc(var(--st) / -2);
+	--sg: 0.125em;
+}
+
 html, body {
 	position: relative;
 	width: 100%;
